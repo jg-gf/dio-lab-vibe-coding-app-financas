@@ -1,4 +1,5 @@
 # 💸 Assistente Conversacional de Finanças Pessoais (Conta Fácil)
+Esse projeto foi desenvolvido como desafio de projeto da DIO.
 
 ## PRD REFINADO
 ```markdown
