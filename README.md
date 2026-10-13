@@ -171,7 +171,7 @@ O escopo do MVP contempla o ciclo de entrada e consulta de transações via inte
 
 ### Prints do resultado final (Lovable)
 
-https://preview--hello-finance-pal.lovable.app/ __lovable_receipt=mat_687k2p66ed9a296843s4k07epy
+[https://preview--hello-finance-pal.lovable.app/ __lovable_receipt=mat_687k2p66ed9a296843s4k07epy](https://id-preview--b9a47904-3da0-4c30-921f-dc7743e90424.lovable.app/?__lovable_receipt=mat_687k2p66ed9a296843s4k07epy)
 
 <img width="1361" height="898" alt="image" src="https://github.com/user-attachments/assets/f1fdadc2-2b7c-4c96-a237-aa0422212f31" />
 
