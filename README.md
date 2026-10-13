@@ -162,8 +162,10 @@ O escopo do MVP contempla o ciclo de entrada e consulta de transações via inte
 ## Interações com o Agente (Lovable)
 > crie um app de finanças pessoais com base no prd (product requirements document). Utilizando os créditos disponíveis no momento, concentre os recursos para gerar uma tela inicial do MVP, que permita a simulação de uma entrada de gastos.
 >> *Criou tela inicial de gastos*
+>
 > Fix error (Lovable encontrou erro e propôs solução)
 >> *A tela inicial do MVP está pronta para você simular entradas de gastos e receitas por texto, atalhos rápidos ou voz, com confirmação acessível e atualização imediata do saldo. Os lançamentos funcionam em memória local nesta primeira versão. Quando quiser persistir os dados no banco e conectar reconhecimento com IA, podemos ativar o Lovable Cloud.*
+>
 > parece funcionar! realmente foi muito bom chegar num resultado desse somente com os créditos disponíveis. pode me dizer quantos créditos foram usados?
 >> *Foram utilizados 2,40 créditos para criar e gerar a tela inicial do MVP.*
 
