@@ -169,9 +169,12 @@ O escopo do MVP contempla o ciclo de entrada e consulta de transações via inte
 > parece funcionar! realmente foi muito bom chegar num resultado desse somente com os créditos disponíveis. pode me dizer quantos créditos foram usados?
 >> *Foram utilizados 2,40 créditos para criar e gerar a tela inicial do MVP.*
 
-- Resultado final com Lovable
+### Prints do resultado final (Lovable)
+
 https://preview--hello-finance-pal.lovable.app/ __lovable_receipt=mat_687k2p66ed9a296843s4k07epy
+
 <img width="1361" height="898" alt="image" src="https://github.com/user-attachments/assets/f1fdadc2-2b7c-4c96-a237-aa0422212f31" />
+
 <img width="1332" height="890" alt="image" src="https://github.com/user-attachments/assets/c05c2afc-0311-4157-88ed-2f4606db8965" />
 
 
